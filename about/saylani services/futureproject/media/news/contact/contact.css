@@ -1,0 +1,65 @@
+.form{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 600px;
+    padding: 50px;
+    margin: 20px;
+    clear: both;
+}
+
+.space{
+    width: 518px;
+    height: 58px
+}
+.space{
+    position: relative;
+    top: 30px;
+    left: 0px;
+}
+
+.message{
+    width: 518px;
+    height: 250px;
+    position: relative;
+    top: 60px ;
+    left: 0px;
+    
+}
+.message:hover{
+    border: 3px solid blue;
+}
+
+input{
+    width: 252px;
+    height: 58px;
+    text-align: justify;
+    
+}
+
+input:hover{
+   border: 3px solid blue;
+}
+
+iframe{
+    position: absolute;
+    top: 480px;
+    left:700px;
+    width: 510px;
+    height: 550px;
+    border: 60px solid blue;
+}
+button{
+    position: relative;
+    top: 80px;
+    left: 0px;
+    width: 518px;
+    height: 64px;
+    background: rgb(145, 230, 18);
+    border: 3px solid  rgb(145, 230, 18);
+}
+button:hover{
+    background-color: rgb(6, 177, 6);
+    color: white;
+    border: 3px solid rgb(55, 255, 55);
+}
